@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <unistd.h>
 
 /**
@@ -5,7 +6,7 @@
  *
  * Description: A C program that prints with put function
  *
- * Return: always 1 (not success)
+ * Return: always 1 (success)
  *
 */
 
